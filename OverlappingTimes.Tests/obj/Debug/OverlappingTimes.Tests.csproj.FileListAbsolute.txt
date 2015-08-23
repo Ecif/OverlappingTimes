@@ -1,0 +1,9 @@
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\OverlappingTimes.Tests.dll
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\OverlappingTimes.Tests.pdb
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\OverlappingTimes.exe
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\OverlappingTimes.pdb
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\obj\Debug\OverlappingTimes.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\obj\Debug\OverlappingTimes.Tests.dll
+C:\Users\Ardi\Documents\Visual Studio 2015\Projects\OverlappingTimes\OverlappingTimes.Tests\obj\Debug\OverlappingTimes.Tests.pdb

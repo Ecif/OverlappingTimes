@@ -1,0 +1,20 @@
+Ajavahemiku leidmine
+
+1. Lisasin sisenemis- ja väljumisajad tekstifailist listi.
+2. Sorteerisin ajavahemikud sisenemisaja järgi.
+3. Võtsin ükshaaval listist ajavahemikud ja võrdlesin antud ajavahemikku kõikide teiste ajavahemikkudega 
+samas listis. 
+4. Kui leidus ajavahemik, mis jäi antud võrreldava ajavahemiku sisse, siis suurendasin kattuvate 
+ajavahemikkude arvu 1 võrra, sest liitus 1 külastaja ja tegin kontrollid ajavahemiku alguse ja lõpu jaoks. 
+
+Kui antud kontrollitava ajavahemiku sisenemisaeg oli väiksem kui leitud kattuva ajavahemiku sisenemisaeg, 
+siis muutsin ajavahemiku mudeli sisenemisaja leitud kattuva ajavahemiku sisenemisajaks. 
+See on vajalik, sest uueks ajavahemiku alguseks on viimasena liitunud külalise sisenemisaeg.
+
+Kui antud kontrollitava ajavahemiku väljumisaeg oli suurem kui leitud kattuvad ajavahemiku väljumisaeg,
+siis muutsin ajavahemiku mudeli väljumisaja leitud kattuvad ajavahemiku väljumisajaks.
+See on vajalik, sest uueks ajavahemiku lõpuks on sel juhul viimasena kattuva külalise lahkumiseaeg. Samuti kahandasin kattuvate 
+ajavahemikkude arvu 1 võrra, sest 1 külaline lahkus.
+
+5. Kui kattuvate ajavahemike number on eelnevalt meelde jäetud kattuvate ajavahemike numbrist suurem või võrdne, siis lisatakse
+ajavahemik koos kattumiste arvuga listi. Sellest listist sorteeritakse välja enim kattuvad ajavahemikud ja tagastatakse.
